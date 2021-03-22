@@ -103,7 +103,7 @@ const Trello: FunctionComponent = () => {
                   <span className="code">intheamtrellolistname</span>.
                 </li>
                 <li>
-                  You can change the description of a task by changing the value
+                  You can change the description of a task by changing he value
                   of the field{' '}
                   <span className="code">intheamtrellodescription</span>.
                 </li>
